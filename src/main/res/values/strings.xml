@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SHH (Silent)</string>
+    <string name="accessibility_service_description">By activating the accessibility function, this application can customize the operation of the physical button of the terminal \nUsing accessibility functions to detect double tap of volume button of the terminal, and to execute the operation (mute or unmute the phone) \nThis application does not collect any personal information such as entered letters, passwords, credit card numbers, etc.</string>
+</resources>
